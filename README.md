@@ -11,5 +11,5 @@ $ shodan init YOUR_API_KEY
 7. Select the amount of results you wish to procure
 8. Run script using the terminal: In this case
 ```console
-$ python3 Shodan_Script.py
+$ python3 ShodanScriptForExam.py
 ```
